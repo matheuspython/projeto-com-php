@@ -20,7 +20,40 @@
     <title>Agência de Marketing Digital</title>
 </head>
 <body>
-teste font
+<header>
+    <div class="container">
+            <div class="menu-topo">
+                <div class="logo"></div>
+                <nav class="desktop">
+                    <ul>
+                        <li><a href="">Sobre</a></li>
+                        <li><a href="">Serviços</a></li>
+                        <li><a href="">Contato</a></li>
+                        <li class="btn-nav"><a href="">Quero um orçamento</a></li>
+                    </ul>
+                </nav><!--desktop-->
+                <div class="clear"></div>
+            </div><!--menu topo-->
+            <div class="chamada-header">
+                <h2>Você vende mais<br> com automação web.</h2>
+                <p>nos criamos soluções de marketing para sua empresa vender mais, da melhor forma.</p>
+
+                <form action="">
+                    <input type="email" required="" placeholder="seu email aqui...">
+                    <input type="submit" name="acao" value="Quero saber mais">
+                </form>
+            </div>
+    </div><!--container-->
+    </header>
+
+
+
+
+
+
+
+
+
 
 
 <script src="assets/js/functions.js"></script>
