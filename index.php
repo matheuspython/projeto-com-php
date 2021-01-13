@@ -11,7 +11,7 @@
 
     <!--inicio fonts-->
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
     <!--fim fonts-->
 
     <!--css-->
@@ -76,10 +76,19 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, error nostrum. Dignissimos eligendi placeat corrupti exercitationem nulla molestias aspernatur quod voluptatem!</p>
             </div>
             <img src="assets/images/mockup1.jpg" alt="trabalho danki" title="trabalho danki">
-      <div class="clear"></div>
-      </div>
+            <div class="clear"></div>
+        </div>
     </section>
 
+    <section class="descricao-danki3">
+        <div class="container">
+            <div class="box-depoimento">
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi dicta eum error aperiam, quasi iusto quas. Repellat odit sapiente nihil vitae? Consequuntur dolores quisquam impedit asperiores laborum accusamus. </p>
+                <p><strong>Jhon doe</strong></p>
+            </div>
+
+        </div>
+    </section>
 
 
 
