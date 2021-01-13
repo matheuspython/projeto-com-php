@@ -14,6 +14,7 @@
     <!--fim fonts-->
 
     <!--css-->
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/resets.css">
     <link rel="stylesheet" href="assets/css/style.css">
    <!--fim css-->
@@ -32,6 +33,16 @@
                         <li class="btn-nav"><a href="">Quero um orçamento</a></li>
                     </ul>
                 </nav><!--desktop-->
+
+                <nav class="mobile">
+                    <h3><i onclick="abreMenu()" class="fa fa-bars"></i></h3>
+                    <ul>
+                        <li><a href="">Sobre</a></li>
+                        <li><a href="">Serviços</a></li>
+                        <li><a href="">Contato</a></li>
+                        <li class="btn-nav"><a href="">Quero um orçamento</a></li>
+                    </ul>
+                </nav><!--mobile-->
                 <div class="clear"></div>
             </div><!--menu topo-->
             <div class="chamada-header">
