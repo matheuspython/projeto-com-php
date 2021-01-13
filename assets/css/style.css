@@ -184,6 +184,35 @@ section.descricao-danki2 img {
     width: 45%;
 }
 
+section.descricao-danki3 {
+    padding: 30px 0 60px 0;
+}
+
+section.descricao-danki3>.container {
+    max-width: 960px;
+    background-image: url('../images/bg2.jpg');
+    background-size: cover;
+    min-height: 350px;
+    position: relative;
+}
+
+.box-depoimento {
+    position: absolute;
+    left: 50%;
+    bottom: -30px;
+    width: 70%;
+    max-width: 506px;
+    background-color: white;
+    padding: 10px 30px;
+    box-shadow: 0 8px 20px 0 rgba(224, 224, 224, 0.5);
+}
+
+.box-depoimento p {
+    font-size: 18px;
+    color: #31475e;
+    font-weight: lighter;
+}
+
 
 /*inicio media queries*/
 
@@ -199,6 +228,12 @@ section.descricao-danki2 img {
     }
     div.chamada-header input[type=email] {
         margin-bottom: 10px;
+    }
+    .box-depoimento {
+        top: 50%;
+        bottom: auto;
+        transform: translate(-50%, -50%);
+        width: 80%;
     }
 }
 
