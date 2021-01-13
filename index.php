@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <!--meta tags-->
     <meta charset="UTF-8">
@@ -17,12 +18,13 @@
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/resets.css">
     <link rel="stylesheet" href="assets/css/style.css">
-   <!--fim css-->
+    <!--fim css-->
     <title>Agência de Marketing Digital</title>
 </head>
+
 <body>
-<header>
-    <div class="container">
+    <header>
+        <div class="container">
             <div class="menu-topo">
                 <div class="logo"></div>
                 <nav class="desktop">
@@ -32,7 +34,8 @@
                         <li><a href="">Contato</a></li>
                         <li class="btn-nav"><a href="">Quero um orçamento</a></li>
                     </ul>
-                </nav><!--desktop-->
+                </nav>
+                <!--desktop-->
 
                 <nav class="mobile">
                     <h3><i onclick="abreMenu()" class="fa fa-bars"></i></h3>
@@ -42,9 +45,11 @@
                         <li><a href="">Contato</a></li>
                         <li class="btn-nav"><a href="">Quero um orçamento</a></li>
                     </ul>
-                </nav><!--mobile-->
+                </nav>
+                <!--mobile-->
                 <div class="clear"></div>
-            </div><!--menu topo-->
+            </div>
+            <!--menu topo-->
             <div class="chamada-header">
                 <h2>Você vende mais<br> com automação web.</h2>
                 <p>nos criamos soluções de marketing para sua empresa vender mais, da melhor forma.</p>
@@ -54,9 +59,26 @@
                     <input type="submit" name="acao" value="Quero saber mais">
                 </form>
             </div>
-    </div><!--container-->
+        </div>
+        <!--container-->
     </header>
 
+    <section class="descricao-danki">
+        <div class="container">
+            <p>Com anos de experiência em desenvilvimento web e automação de marteting, <strong>DankiCode</strong> traz soluções que ajudam o seu timea vender mais tanto em segmentos B2C qunato B2B</p>
+        </div>
+    </section>
+
+    <section class="descricao-danki2">
+        <div class="container">
+            <div class="texto-descricao">
+                <h3>Nos somos uma agência digital. trabalhamos seu posicionamento, cibteydi e estetuca sempre focado em conversao</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, error nostrum. Dignissimos eligendi placeat corrupti exercitationem nulla molestias aspernatur quod voluptatem!</p>
+            </div>
+            <img src="assets/images/mockup1.jpg" alt="trabalho danki" title="trabalho danki">
+      <div class="clear"></div>
+      </div>
+    </section>
 
 
 
@@ -66,7 +88,7 @@
 
 
 
-
-<script src="assets/js/functions.js"></script>
+    <script src="assets/js/functions.js"></script>
 </body>
+
 </html>
