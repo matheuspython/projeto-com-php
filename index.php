@@ -84,6 +84,7 @@
         <div class="container">
             <div class="box-depoimento">
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi dicta eum error aperiam, quasi iusto quas. Repellat odit sapiente nihil vitae? Consequuntur dolores quisquam impedit asperiores laborum accusamus. </p>
+                <br>
                 <p><strong>Jhon doe</strong></p>
             </div>
 
